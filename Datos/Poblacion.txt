@@ -1,0 +1,729 @@
+Sexo	Edad	Provincias	Periodo	Total
+Ambos sexos	Total	02 Albacete	2018	389322
+Ambos sexos	Total	02 Albacete	2017	390304
+Ambos sexos	Total	02 Albacete	2016	392036
+Ambos sexos	Total	02 Albacete	2015	393664
+Ambos sexos	Total	02 Albacete	2014	395668
+Ambos sexos	Total	02 Albacete	2013	397719
+Ambos sexos	Total	02 Albacete	2012	400430
+Ambos sexos	Total	02 Albacete	2011	401254
+Ambos sexos	Total	02 Albacete	2010	399967
+Ambos sexos	Total	02 Albacete	2009	398645
+Ambos sexos	Total	02 Albacete	2008	396292
+Ambos sexos	Total	02 Albacete	2007	392025
+Ambos sexos	Total	02 Albacete	2006	386095
+Ambos sexos	Total	02 Albacete	2005	381393
+Ambos sexos	Total	03 Alicante/Alacant	2018	1848500
+Ambos sexos	Total	03 Alicante/Alacant	2017	1838940
+Ambos sexos	Total	03 Alicante/Alacant	2016	1839982
+Ambos sexos	Total	03 Alicante/Alacant	2015	1839975
+Ambos sexos	Total	03 Alicante/Alacant	2014	1848498
+Ambos sexos	Total	03 Alicante/Alacant	2013	1850390
+Ambos sexos	Total	03 Alicante/Alacant	2012	1853643
+Ambos sexos	Total	03 Alicante/Alacant	2011	1847587
+Ambos sexos	Total	03 Alicante/Alacant	2010	1840159
+Ambos sexos	Total	03 Alicante/Alacant	2009	1837673
+Ambos sexos	Total	03 Alicante/Alacant	2008	1828487
+Ambos sexos	Total	03 Alicante/Alacant	2007	1793377
+Ambos sexos	Total	03 Alicante/Alacant	2006	1739193
+Ambos sexos	Total	03 Alicante/Alacant	2005	1688959
+Ambos sexos	Total	04 Almería	2018	701831
+Ambos sexos	Total	04 Almería	2017	700704
+Ambos sexos	Total	04 Almería	2016	698033
+Ambos sexos	Total	04 Almería	2015	693634
+Ambos sexos	Total	04 Almería	2014	689390
+Ambos sexos	Total	04 Almería	2013	689966
+Ambos sexos	Total	04 Almería	2012	690026
+Ambos sexos	Total	04 Almería	2011	687413
+Ambos sexos	Total	04 Almería	2010	683783
+Ambos sexos	Total	04 Almería	2009	676797
+Ambos sexos	Total	04 Almería	2008	666284
+Ambos sexos	Total	04 Almería	2007	649622
+Ambos sexos	Total	04 Almería	2006	635564
+Ambos sexos	Total	04 Almería	2005	617802
+Ambos sexos	Total	01 Araba/Álava	2018	326419
+Ambos sexos	Total	01 Araba/Álava	2017	324569
+Ambos sexos	Total	01 Araba/Álava	2016	322706
+Ambos sexos	Total	01 Araba/Álava	2015	321077
+Ambos sexos	Total	01 Araba/Álava	2014	320297
+Ambos sexos	Total	01 Araba/Álava	2013	319774
+Ambos sexos	Total	01 Araba/Álava	2012	319786
+Ambos sexos	Total	01 Araba/Álava	2011	320546
+Ambos sexos	Total	01 Araba/Álava	2010	318688
+Ambos sexos	Total	01 Araba/Álava	2009	316720
+Ambos sexos	Total	01 Araba/Álava	2008	313154
+Ambos sexos	Total	01 Araba/Álava	2007	308653
+Ambos sexos	Total	01 Araba/Álava	2006	304299
+Ambos sexos	Total	01 Araba/Álava	2005	300724
+Ambos sexos	Total	33 Asturias	2018	1024192
+Ambos sexos	Total	33 Asturias	2017	1029953
+Ambos sexos	Total	33 Asturias	2016	1037011
+Ambos sexos	Total	33 Asturias	2015	1044043
+Ambos sexos	Total	33 Asturias	2014	1054060
+Ambos sexos	Total	33 Asturias	2013	1062935
+Ambos sexos	Total	33 Asturias	2012	1070686
+Ambos sexos	Total	33 Asturias	2011	1075114
+Ambos sexos	Total	33 Asturias	2010	1076165
+Ambos sexos	Total	33 Asturias	2009	1076430
+Ambos sexos	Total	33 Asturias	2008	1074019
+Ambos sexos	Total	33 Asturias	2007	1068046
+Ambos sexos	Total	33 Asturias	2006	1063801
+Ambos sexos	Total	33 Asturias	2005	1062559
+Ambos sexos	Total	05 Ávila	2018	159251
+Ambos sexos	Total	05 Ávila	2017	160519
+Ambos sexos	Total	05 Ávila	2016	162611
+Ambos sexos	Total	05 Ávila	2015	164505
+Ambos sexos	Total	05 Ávila	2014	166368
+Ambos sexos	Total	05 Ávila	2013	168237
+Ambos sexos	Total	05 Ávila	2012	170196
+Ambos sexos	Total	05 Ávila	2011	172006
+Ambos sexos	Total	05 Ávila	2010	172984
+Ambos sexos	Total	05 Ávila	2009	173606
+Ambos sexos	Total	05 Ávila	2008	173564
+Ambos sexos	Total	05 Ávila	2007	172001
+Ambos sexos	Total	05 Ávila	2006	168930
+Ambos sexos	Total	05 Ávila	2005	166851
+Ambos sexos	Total	06 Badajoz	2018	673221
+Ambos sexos	Total	06 Badajoz	2017	676136
+Ambos sexos	Total	06 Badajoz	2016	680350
+Ambos sexos	Total	06 Badajoz	2015	683822
+Ambos sexos	Total	06 Badajoz	2014	687298
+Ambos sexos	Total	06 Badajoz	2013	689415
+Ambos sexos	Total	06 Badajoz	2012	690900
+Ambos sexos	Total	06 Badajoz	2011	690921
+Ambos sexos	Total	06 Badajoz	2010	688606
+Ambos sexos	Total	06 Badajoz	2009	686009
+Ambos sexos	Total	06 Badajoz	2008	682212
+Ambos sexos	Total	06 Badajoz	2007	677227
+Ambos sexos	Total	06 Badajoz	2006	671310
+Ambos sexos	Total	06 Badajoz	2005	666168
+Ambos sexos	Total	07 Balears, Illes	2018	1175745
+Ambos sexos	Total	07 Balears, Illes	2017	1157977
+Ambos sexos	Total	07 Balears, Illes	2016	1143276
+Ambos sexos	Total	07 Balears, Illes	2015	1129743
+Ambos sexos	Total	07 Balears, Illes	2014	1120470
+Ambos sexos	Total	07 Balears, Illes	2013	1112736
+Ambos sexos	Total	07 Balears, Illes	2012	1104322
+Ambos sexos	Total	07 Balears, Illes	2011	1095456
+Ambos sexos	Total	07 Balears, Illes	2010	1087640
+Ambos sexos	Total	07 Balears, Illes	2009	1078053
+Ambos sexos	Total	07 Balears, Illes	2008	1057440
+Ambos sexos	Total	07 Balears, Illes	2007	1025216
+Ambos sexos	Total	07 Balears, Illes	2006	987203
+Ambos sexos	Total	07 Balears, Illes	2005	954612
+Ambos sexos	Total	08 Barcelona	2018	5536855
+Ambos sexos	Total	08 Barcelona	2017	5481935
+Ambos sexos	Total	08 Barcelona	2016	5453595
+Ambos sexos	Total	08 Barcelona	2015	5434340
+Ambos sexos	Total	08 Barcelona	2014	5433744
+Ambos sexos	Total	08 Barcelona	2013	5465193
+Ambos sexos	Total	08 Barcelona	2012	5504057
+Ambos sexos	Total	08 Barcelona	2011	5511857
+Ambos sexos	Total	08 Barcelona	2010	5497519
+Ambos sexos	Total	08 Barcelona	2009	5478819
+Ambos sexos	Total	08 Barcelona	2008	5431864
+Ambos sexos	Total	08 Barcelona	2007	5342369
+Ambos sexos	Total	08 Barcelona	2006	5256368
+Ambos sexos	Total	08 Barcelona	2005	5184895
+Ambos sexos	Total	48 Bizkaia	2018	1135052
+Ambos sexos	Total	48 Bizkaia	2017	1134120
+Ambos sexos	Total	48 Bizkaia	2016	1134144
+Ambos sexos	Total	48 Bizkaia	2015	1134756
+Ambos sexos	Total	48 Bizkaia	2014	1138018
+Ambos sexos	Total	48 Bizkaia	2013	1144096
+Ambos sexos	Total	48 Bizkaia	2012	1152156
+Ambos sexos	Total	48 Bizkaia	2011	1155897
+Ambos sexos	Total	48 Bizkaia	2010	1155975
+Ambos sexos	Total	48 Bizkaia	2009	1155322
+Ambos sexos	Total	48 Bizkaia	2008	1151951
+Ambos sexos	Total	48 Bizkaia	2007	1146329
+Ambos sexos	Total	48 Bizkaia	2006	1139379
+Ambos sexos	Total	48 Bizkaia	2005	1134194
+Ambos sexos	Total	09 Burgos	2018	355246
+Ambos sexos	Total	09 Burgos	2017	356238
+Ambos sexos	Total	09 Burgos	2016	358398
+Ambos sexos	Total	09 Burgos	2015	361129
+Ambos sexos	Total	09 Burgos	2014	363756
+Ambos sexos	Total	09 Burgos	2013	366989
+Ambos sexos	Total	09 Burgos	2012	370367
+Ambos sexos	Total	09 Burgos	2011	372676
+Ambos sexos	Total	09 Burgos	2010	373338
+Ambos sexos	Total	09 Burgos	2009	374302
+Ambos sexos	Total	09 Burgos	2008	374053
+Ambos sexos	Total	09 Burgos	2007	369175
+Ambos sexos	Total	09 Burgos	2006	362515
+Ambos sexos	Total	09 Burgos	2005	359136
+Ambos sexos	Total	10 Cáceres	2018	393797
+Ambos sexos	Total	10 Cáceres	2017	397009
+Ambos sexos	Total	10 Cáceres	2016	400723
+Ambos sexos	Total	10 Cáceres	2015	403803
+Ambos sexos	Total	10 Cáceres	2014	406509
+Ambos sexos	Total	10 Cáceres	2013	408834
+Ambos sexos	Total	10 Cáceres	2012	411118
+Ambos sexos	Total	10 Cáceres	2011	412593
+Ambos sexos	Total	10 Cáceres	2010	411835
+Ambos sexos	Total	10 Cáceres	2009	411117
+Ambos sexos	Total	10 Cáceres	2008	409296
+Ambos sexos	Total	10 Cáceres	2007	408536
+Ambos sexos	Total	10 Cáceres	2006	406611
+Ambos sexos	Total	10 Cáceres	2005	405811
+Ambos sexos	Total	11 Cádiz	2018	1248509
+Ambos sexos	Total	11 Cádiz	2017	1248476
+Ambos sexos	Total	11 Cádiz	2016	1248321
+Ambos sexos	Total	11 Cádiz	2015	1247823
+Ambos sexos	Total	11 Cádiz	2014	1247710
+Ambos sexos	Total	11 Cádiz	2013	1247150
+Ambos sexos	Total	11 Cádiz	2012	1245778
+Ambos sexos	Total	11 Cádiz	2011	1242290
+Ambos sexos	Total	11 Cádiz	2010	1234074
+Ambos sexos	Total	11 Cádiz	2009	1225259
+Ambos sexos	Total	11 Cádiz	2008	1215173
+Ambos sexos	Total	11 Cádiz	2007	1201290
+Ambos sexos	Total	11 Cádiz	2006	1184864
+Ambos sexos	Total	11 Cádiz	2005	1168216
+Ambos sexos	Total	39 Cantabria	2018	580971
+Ambos sexos	Total	39 Cantabria	2017	580927
+Ambos sexos	Total	39 Cantabria	2016	581421
+Ambos sexos	Total	39 Cantabria	2015	583549
+Ambos sexos	Total	39 Cantabria	2014	586240
+Ambos sexos	Total	39 Cantabria	2013	588538
+Ambos sexos	Total	39 Cantabria	2012	591083
+Ambos sexos	Total	39 Cantabria	2011	591564
+Ambos sexos	Total	39 Cantabria	2010	589603
+Ambos sexos	Total	39 Cantabria	2009	586778
+Ambos sexos	Total	39 Cantabria	2008	581160
+Ambos sexos	Total	39 Cantabria	2007	572557
+Ambos sexos	Total	39 Cantabria	2006	564188
+Ambos sexos	Total	39 Cantabria	2005	557962
+Ambos sexos	Total	12 Castellón/Castelló	2018	569297
+Ambos sexos	Total	12 Castellón/Castelló	2017	568514
+Ambos sexos	Total	12 Castellón/Castelló	2016	569948
+Ambos sexos	Total	12 Castellón/Castelló	2015	572229
+Ambos sexos	Total	12 Castellón/Castelló	2014	575440
+Ambos sexos	Total	12 Castellón/Castelló	2013	581478
+Ambos sexos	Total	12 Castellón/Castelló	2012	589792
+Ambos sexos	Total	12 Castellón/Castelló	2011	594524
+Ambos sexos	Total	12 Castellón/Castelló	2010	595086
+Ambos sexos	Total	12 Castellón/Castelló	2009	595415
+Ambos sexos	Total	12 Castellón/Castelló	2008	592164
+Ambos sexos	Total	12 Castellón/Castelló	2007	578042
+Ambos sexos	Total	12 Castellón/Castelló	2006	556560
+Ambos sexos	Total	12 Castellón/Castelló	2005	540413
+Ambos sexos	Total	13 Ciudad Real	2018	495716
+Ambos sexos	Total	13 Ciudad Real	2017	500274
+Ambos sexos	Total	13 Ciudad Real	2016	505961
+Ambos sexos	Total	13 Ciudad Real	2015	510953
+Ambos sexos	Total	13 Ciudad Real	2014	515973
+Ambos sexos	Total	13 Ciudad Real	2013	520292
+Ambos sexos	Total	13 Ciudad Real	2012	524145
+Ambos sexos	Total	13 Ciudad Real	2011	526269
+Ambos sexos	Total	13 Ciudad Real	2010	525418
+Ambos sexos	Total	13 Ciudad Real	2009	524750
+Ambos sexos	Total	13 Ciudad Real	2008	521681
+Ambos sexos	Total	13 Ciudad Real	2007	514761
+Ambos sexos	Total	13 Ciudad Real	2006	504642
+Ambos sexos	Total	13 Ciudad Real	2005	497390
+Ambos sexos	Total	14 Córdoba	2018	784593
+Ambos sexos	Total	14 Córdoba	2017	787839
+Ambos sexos	Total	14 Córdoba	2016	790873
+Ambos sexos	Total	14 Córdoba	2015	793543
+Ambos sexos	Total	14 Córdoba	2014	796660
+Ambos sexos	Total	14 Córdoba	2013	799002
+Ambos sexos	Total	14 Córdoba	2012	801413
+Ambos sexos	Total	14 Córdoba	2011	802112
+Ambos sexos	Total	14 Córdoba	2010	800839
+Ambos sexos	Total	14 Córdoba	2009	798522
+Ambos sexos	Total	14 Córdoba	2008	794995
+Ambos sexos	Total	14 Córdoba	2007	789302
+Ambos sexos	Total	14 Córdoba	2006	783072
+Ambos sexos	Total	14 Córdoba	2005	778282
+Ambos sexos	Total	15 Coruña, A	2018	1120355
+Ambos sexos	Total	15 Coruña, A	2017	1119996
+Ambos sexos	Total	15 Coruña, A	2016	1121973
+Ambos sexos	Total	15 Coruña, A	2015	1125530
+Ambos sexos	Total	15 Coruña, A	2014	1130242
+Ambos sexos	Total	15 Coruña, A	2013	1135455
+Ambos sexos	Total	15 Coruña, A	2012	1139565
+Ambos sexos	Total	15 Coruña, A	2011	1139993
+Ambos sexos	Total	15 Coruña, A	2010	1138880
+Ambos sexos	Total	15 Coruña, A	2009	1136243
+Ambos sexos	Total	15 Coruña, A	2008	1131381
+Ambos sexos	Total	15 Coruña, A	2007	1124796
+Ambos sexos	Total	15 Coruña, A	2006	1117387
+Ambos sexos	Total	15 Coruña, A	2005	1111830
+Ambos sexos	Total	16 Cuenca	2018	199918
+Ambos sexos	Total	16 Cuenca	2017	201087
+Ambos sexos	Total	16 Cuenca	2016	202823
+Ambos sexos	Total	16 Cuenca	2015	205033
+Ambos sexos	Total	16 Cuenca	2014	207465
+Ambos sexos	Total	16 Cuenca	2013	209977
+Ambos sexos	Total	16 Cuenca	2012	213091
+Ambos sexos	Total	16 Cuenca	2011	215635
+Ambos sexos	Total	16 Cuenca	2010	216227
+Ambos sexos	Total	16 Cuenca	2009	216447
+Ambos sexos	Total	16 Cuenca	2008	215493
+Ambos sexos	Total	16 Cuenca	2007	213153
+Ambos sexos	Total	16 Cuenca	2006	209173
+Ambos sexos	Total	16 Cuenca	2005	206954
+Ambos sexos	Total	20 Gipuzkoa	2018	710796
+Ambos sexos	Total	20 Gipuzkoa	2017	708877
+Ambos sexos	Total	20 Gipuzkoa	2016	708249
+Ambos sexos	Total	20 Gipuzkoa	2015	707153
+Ambos sexos	Total	20 Gipuzkoa	2014	707019
+Ambos sexos	Total	20 Gipuzkoa	2013	707030
+Ambos sexos	Total	20 Gipuzkoa	2012	708042
+Ambos sexos	Total	20 Gipuzkoa	2011	707572
+Ambos sexos	Total	20 Gipuzkoa	2010	706424
+Ambos sexos	Total	20 Gipuzkoa	2009	704971
+Ambos sexos	Total	20 Gipuzkoa	2008	701694
+Ambos sexos	Total	20 Gipuzkoa	2007	696153
+Ambos sexos	Total	20 Gipuzkoa	2006	690402
+Ambos sexos	Total	20 Gipuzkoa	2005	686091
+Ambos sexos	Total	17 Girona	2018	752508
+Ambos sexos	Total	17 Girona	2017	747362
+Ambos sexos	Total	17 Girona	2016	742558
+Ambos sexos	Total	17 Girona	2015	740425
+Ambos sexos	Total	17 Girona	2014	741072
+Ambos sexos	Total	17 Girona	2013	746079
+Ambos sexos	Total	17 Girona	2012	750313
+Ambos sexos	Total	17 Girona	2011	749496
+Ambos sexos	Total	17 Girona	2010	744267
+Ambos sexos	Total	17 Girona	2009	739368
+Ambos sexos	Total	17 Girona	2008	729156
+Ambos sexos	Total	17 Girona	2007	707568
+Ambos sexos	Total	17 Girona	2006	681316
+Ambos sexos	Total	17 Girona	2005	658351
+Ambos sexos	Total	18 Granada	2018	917849
+Ambos sexos	Total	18 Granada	2017	916503
+Ambos sexos	Total	18 Granada	2016	916767
+Ambos sexos	Total	18 Granada	2015	917814
+Ambos sexos	Total	18 Granada	2014	919248
+Ambos sexos	Total	18 Granada	2013	920898
+Ambos sexos	Total	18 Granada	2012	922125
+Ambos sexos	Total	18 Granada	2011	920886
+Ambos sexos	Total	18 Granada	2010	917503
+Ambos sexos	Total	18 Granada	2009	912113
+Ambos sexos	Total	18 Granada	2008	905039
+Ambos sexos	Total	18 Granada	2007	892646
+Ambos sexos	Total	18 Granada	2006	877466
+Ambos sexos	Total	18 Granada	2005	864205
+Ambos sexos	Total	19 Guadalajara	2018	256961
+Ambos sexos	Total	19 Guadalajara	2017	255528
+Ambos sexos	Total	19 Guadalajara	2016	254429
+Ambos sexos	Total	19 Guadalajara	2015	254061
+Ambos sexos	Total	19 Guadalajara	2014	254649
+Ambos sexos	Total	19 Guadalajara	2013	255890
+Ambos sexos	Total	19 Guadalajara	2012	257422
+Ambos sexos	Total	19 Guadalajara	2011	256349
+Ambos sexos	Total	19 Guadalajara	2010	252384
+Ambos sexos	Total	19 Guadalajara	2009	248252
+Ambos sexos	Total	19 Guadalajara	2008	241834
+Ambos sexos	Total	19 Guadalajara	2007	231949
+Ambos sexos	Total	19 Guadalajara	2006	218689
+Ambos sexos	Total	19 Guadalajara	2005	207742
+Ambos sexos	Total	21 Huelva	2018	523214
+Ambos sexos	Total	21 Huelva	2017	521611
+Ambos sexos	Total	21 Huelva	2016	521382
+Ambos sexos	Total	21 Huelva	2015	521738
+Ambos sexos	Total	21 Huelva	2014	521617
+Ambos sexos	Total	21 Huelva	2013	521275
+Ambos sexos	Total	21 Huelva	2012	520209
+Ambos sexos	Total	21 Huelva	2011	519166
+Ambos sexos	Total	21 Huelva	2010	516786
+Ambos sexos	Total	21 Huelva	2009	512921
+Ambos sexos	Total	21 Huelva	2008	507530
+Ambos sexos	Total	21 Huelva	2007	501430
+Ambos sexos	Total	21 Huelva	2006	491972
+Ambos sexos	Total	21 Huelva	2005	485191
+Ambos sexos	Total	22 Huesca	2018	218965
+Ambos sexos	Total	22 Huesca	2017	219171
+Ambos sexos	Total	22 Huesca	2016	219975
+Ambos sexos	Total	22 Huesca	2015	221168
+Ambos sexos	Total	22 Huesca	2014	222697
+Ambos sexos	Total	22 Huesca	2013	223872
+Ambos sexos	Total	22 Huesca	2012	225077
+Ambos sexos	Total	22 Huesca	2011	226090
+Ambos sexos	Total	22 Huesca	2010	226740
+Ambos sexos	Total	22 Huesca	2009	226693
+Ambos sexos	Total	22 Huesca	2008	225969
+Ambos sexos	Total	22 Huesca	2007	221964
+Ambos sexos	Total	22 Huesca	2006	218400
+Ambos sexos	Total	22 Huesca	2005	215898
+Ambos sexos	Total	23 Jaén	2018	633900
+Ambos sexos	Total	23 Jaén	2017	638992
+Ambos sexos	Total	23 Jaén	2016	643987
+Ambos sexos	Total	23 Jaén	2015	648938
+Ambos sexos	Total	23 Jaén	2014	653886
+Ambos sexos	Total	23 Jaén	2013	658482
+Ambos sexos	Total	23 Jaén	2012	664448
+Ambos sexos	Total	23 Jaén	2011	667614
+Ambos sexos	Total	23 Jaén	2010	666554
+Ambos sexos	Total	23 Jaén	2009	665713
+Ambos sexos	Total	23 Jaén	2008	664211
+Ambos sexos	Total	23 Jaén	2007	661708
+Ambos sexos	Total	23 Jaén	2006	657787
+Ambos sexos	Total	23 Jaén	2005	655081
+Ambos sexos	Total	24 León	2018	463724
+Ambos sexos	Total	24 León	2017	467719
+Ambos sexos	Total	24 León	2016	472361
+Ambos sexos	Total	24 León	2015	477199
+Ambos sexos	Total	24 León	2014	481955
+Ambos sexos	Total	24 León	2013	486764
+Ambos sexos	Total	24 León	2012	490667
+Ambos sexos	Total	24 León	2011	493434
+Ambos sexos	Total	24 León	2010	494201
+Ambos sexos	Total	24 León	2009	494840
+Ambos sexos	Total	24 León	2008	494547
+Ambos sexos	Total	24 León	2007	492335
+Ambos sexos	Total	24 León	2006	489753
+Ambos sexos	Total	24 León	2005	487687
+Ambos sexos	Total	25 Lleida	2018	429400
+Ambos sexos	Total	25 Lleida	2017	428703
+Ambos sexos	Total	25 Lleida	2016	428644
+Ambos sexos	Total	25 Lleida	2015	429600
+Ambos sexos	Total	25 Lleida	2014	431200
+Ambos sexos	Total	25 Lleida	2013	433779
+Ambos sexos	Total	25 Lleida	2012	437075
+Ambos sexos	Total	25 Lleida	2011	437306
+Ambos sexos	Total	25 Lleida	2010	434853
+Ambos sexos	Total	25 Lleida	2009	432727
+Ambos sexos	Total	25 Lleida	2008	427956
+Ambos sexos	Total	25 Lleida	2007	417241
+Ambos sexos	Total	25 Lleida	2006	405636
+Ambos sexos	Total	25 Lleida	2005	397386
+Ambos sexos	Total	27 Lugo	2018	329850
+Ambos sexos	Total	27 Lugo	2017	332400
+Ambos sexos	Total	27 Lugo	2016	334713
+Ambos sexos	Total	27 Lugo	2015	337169
+Ambos sexos	Total	27 Lugo	2014	340108
+Ambos sexos	Total	27 Lugo	2013	343053
+Ambos sexos	Total	27 Lugo	2012	346057
+Ambos sexos	Total	27 Lugo	2011	348524
+Ambos sexos	Total	27 Lugo	2010	349925
+Ambos sexos	Total	27 Lugo	2009	351628
+Ambos sexos	Total	27 Lugo	2008	352170
+Ambos sexos	Total	27 Lugo	2007	352358
+Ambos sexos	Total	27 Lugo	2006	352160
+Ambos sexos	Total	27 Lugo	2005	352787
+Ambos sexos	Total	28 Madrid	2018	6586681
+Ambos sexos	Total	28 Madrid	2017	6504797
+Ambos sexos	Total	28 Madrid	2016	6445484
+Ambos sexos	Total	28 Madrid	2015	6401162
+Ambos sexos	Total	28 Madrid	2014	6376749
+Ambos sexos	Total	28 Madrid	2013	6392713
+Ambos sexos	Total	28 Madrid	2012	6426229
+Ambos sexos	Total	28 Madrid	2011	6409093
+Ambos sexos	Total	28 Madrid	2010	6384358
+Ambos sexos	Total	28 Madrid	2009	6354091
+Ambos sexos	Total	28 Madrid	2008	6283747
+Ambos sexos	Total	28 Madrid	2007	6152759
+Ambos sexos	Total	28 Madrid	2006	6003925
+Ambos sexos	Total	28 Madrid	2005	5912335
+Ambos sexos	Total	29 Málaga	2018	1650111
+Ambos sexos	Total	29 Málaga	2017	1645401
+Ambos sexos	Total	29 Málaga	2016	1643219
+Ambos sexos	Total	29 Málaga	2015	1635082
+Ambos sexos	Total	29 Málaga	2014	1624647
+Ambos sexos	Total	29 Málaga	2013	1613953
+Ambos sexos	Total	29 Málaga	2012	1604584
+Ambos sexos	Total	29 Málaga	2011	1588036
+Ambos sexos	Total	29 Málaga	2010	1572991
+Ambos sexos	Total	29 Málaga	2009	1559580
+Ambos sexos	Total	29 Málaga	2008	1543169
+Ambos sexos	Total	29 Málaga	2007	1510399
+Ambos sexos	Total	29 Málaga	2006	1473511
+Ambos sexos	Total	29 Málaga	2005	1438401
+Ambos sexos	Total	30 Murcia	2018	1479023
+Ambos sexos	Total	30 Murcia	2017	1473611
+Ambos sexos	Total	30 Murcia	2016	1468723
+Ambos sexos	Total	30 Murcia	2015	1464014
+Ambos sexos	Total	30 Murcia	2014	1462881
+Ambos sexos	Total	30 Murcia	2013	1461214
+Ambos sexos	Total	30 Murcia	2012	1461256
+Ambos sexos	Total	30 Murcia	2011	1461107
+Ambos sexos	Total	30 Murcia	2010	1456521
+Ambos sexos	Total	30 Murcia	2009	1448479
+Ambos sexos	Total	30 Murcia	2008	1431501
+Ambos sexos	Total	30 Murcia	2007	1404885
+Ambos sexos	Total	30 Murcia	2006	1367430
+Ambos sexos	Total	30 Murcia	2005	1335288
+Ambos sexos	Total	31 Navarra	2018	646148
+Ambos sexos	Total	31 Navarra	2017	640967
+Ambos sexos	Total	31 Navarra	2016	638204
+Ambos sexos	Total	31 Navarra	2015	636253
+Ambos sexos	Total	31 Navarra	2014	636003
+Ambos sexos	Total	31 Navarra	2013	637020
+Ambos sexos	Total	31 Navarra	2012	639374
+Ambos sexos	Total	31 Navarra	2011	638581
+Ambos sexos	Total	31 Navarra	2010	634983
+Ambos sexos	Total	31 Navarra	2009	630109
+Ambos sexos	Total	31 Navarra	2008	621976
+Ambos sexos	Total	31 Navarra	2007	609776
+Ambos sexos	Total	31 Navarra	2006	596637
+Ambos sexos	Total	31 Navarra	2005	587922
+Ambos sexos	Total	32 Ourense	2018	308036
+Ambos sexos	Total	32 Ourense	2017	309947
+Ambos sexos	Total	32 Ourense	2016	312788
+Ambos sexos	Total	32 Ourense	2015	316284
+Ambos sexos	Total	32 Ourense	2014	320191
+Ambos sexos	Total	32 Ourense	2013	323276
+Ambos sexos	Total	32 Ourense	2012	326404
+Ambos sexos	Total	32 Ourense	2011	329000
+Ambos sexos	Total	32 Ourense	2010	330526
+Ambos sexos	Total	32 Ourense	2009	331710
+Ambos sexos	Total	32 Ourense	2008	332235
+Ambos sexos	Total	32 Ourense	2007	332897
+Ambos sexos	Total	32 Ourense	2006	333386
+Ambos sexos	Total	32 Ourense	2005	334415
+Ambos sexos	Total	34 Palencia	2018	161168
+Ambos sexos	Total	34 Palencia	2017	162202
+Ambos sexos	Total	34 Palencia	2016	163592
+Ambos sexos	Total	34 Palencia	2015	164868
+Ambos sexos	Total	34 Palencia	2014	166524
+Ambos sexos	Total	34 Palencia	2013	167880
+Ambos sexos	Total	34 Palencia	2012	169491
+Ambos sexos	Total	34 Palencia	2011	170819
+Ambos sexos	Total	34 Palencia	2010	171543
+Ambos sexos	Total	34 Palencia	2009	172358
+Ambos sexos	Total	34 Palencia	2008	172703
+Ambos sexos	Total	34 Palencia	2007	172739
+Ambos sexos	Total	34 Palencia	2006	172400
+Ambos sexos	Total	34 Palencia	2005	172155
+Ambos sexos	Total	35 Palmas, Las	2018	1131683
+Ambos sexos	Total	35 Palmas, Las	2017	1121900
+Ambos sexos	Total	35 Palmas, Las	2016	1113861
+Ambos sexos	Total	35 Palmas, Las	2015	1107344
+Ambos sexos	Total	35 Palmas, Las	2014	1102392
+Ambos sexos	Total	35 Palmas, Las	2013	1098881
+Ambos sexos	Total	35 Palmas, Las	2012	1092396
+Ambos sexos	Total	35 Palmas, Las	2011	1082604
+Ambos sexos	Total	35 Palmas, Las	2010	1070800
+Ambos sexos	Total	35 Palmas, Las	2009	1061052
+Ambos sexos	Total	35 Palmas, Las	2008	1048847
+Ambos sexos	Total	35 Palmas, Las	2007	1027754
+Ambos sexos	Total	35 Palmas, Las	2006	1003280
+Ambos sexos	Total	35 Palmas, Las	2005	979761
+Ambos sexos	Total	36 Pontevedra	2018	940761
+Ambos sexos	Total	36 Pontevedra	2017	941075
+Ambos sexos	Total	36 Pontevedra	2016	943515
+Ambos sexos	Total	36 Pontevedra	2015	946108
+Ambos sexos	Total	36 Pontevedra	2014	948790
+Ambos sexos	Total	36 Pontevedra	2013	951446
+Ambos sexos	Total	36 Pontevedra	2012	953721
+Ambos sexos	Total	36 Pontevedra	2011	954133
+Ambos sexos	Total	36 Pontevedra	2010	952419
+Ambos sexos	Total	36 Pontevedra	2009	949561
+Ambos sexos	Total	36 Pontevedra	2008	944201
+Ambos sexos	Total	36 Pontevedra	2007	937033
+Ambos sexos	Total	36 Pontevedra	2006	930442
+Ambos sexos	Total	36 Pontevedra	2005	924929
+Ambos sexos	Total	26 Rioja, La	2018	312682
+Ambos sexos	Total	26 Rioja, La	2017	312394
+Ambos sexos	Total	26 Rioja, La	2016	312635
+Ambos sexos	Total	26 Rioja, La	2015	312834
+Ambos sexos	Total	26 Rioja, La	2014	314079
+Ambos sexos	Total	26 Rioja, La	2013	316825
+Ambos sexos	Total	26 Rioja, La	2012	320081
+Ambos sexos	Total	26 Rioja, La	2011	321050
+Ambos sexos	Total	26 Rioja, La	2010	319888
+Ambos sexos	Total	26 Rioja, La	2009	319786
+Ambos sexos	Total	26 Rioja, La	2008	318448
+Ambos sexos	Total	26 Rioja, La	2007	312369
+Ambos sexos	Total	26 Rioja, La	2006	304870
+Ambos sexos	Total	26 Rioja, La	2005	300594
+Ambos sexos	Total	37 Salamanca	2018	332682
+Ambos sexos	Total	37 Salamanca	2017	334344
+Ambos sexos	Total	37 Salamanca	2016	337080
+Ambos sexos	Total	37 Salamanca	2015	339982
+Ambos sexos	Total	37 Salamanca	2014	343071
+Ambos sexos	Total	37 Salamanca	2013	345721
+Ambos sexos	Total	37 Salamanca	2012	348349
+Ambos sexos	Total	37 Salamanca	2011	350206
+Ambos sexos	Total	37 Salamanca	2010	350888
+Ambos sexos	Total	37 Salamanca	2009	350954
+Ambos sexos	Total	37 Salamanca	2008	350463
+Ambos sexos	Total	37 Salamanca	2007	348602
+Ambos sexos	Total	37 Salamanca	2006	346862
+Ambos sexos	Total	37 Salamanca	2005	346204
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2018	1056632
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2017	1041190
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2016	1028389
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2015	1020426
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2014	1016031
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2013	1009581
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2012	1000430
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2011	991381
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2010	982316
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2009	973113
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2008	961118
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2007	940212
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2006	918566
+Ambos sexos	Total	38 Santa Cruz de Tenerife	2005	896608
+Ambos sexos	Total	40 Segovia	2018	153928
+Ambos sexos	Total	40 Segovia	2017	154469
+Ambos sexos	Total	40 Segovia	2016	155797
+Ambos sexos	Total	40 Segovia	2015	157120
+Ambos sexos	Total	40 Segovia	2014	158472
+Ambos sexos	Total	40 Segovia	2013	160204
+Ambos sexos	Total	40 Segovia	2012	161988
+Ambos sexos	Total	40 Segovia	2011	163250
+Ambos sexos	Total	40 Segovia	2010	163297
+Ambos sexos	Total	40 Segovia	2009	163030
+Ambos sexos	Total	40 Segovia	2008	163407
+Ambos sexos	Total	40 Segovia	2007	161374
+Ambos sexos	Total	40 Segovia	2006	157369
+Ambos sexos	Total	40 Segovia	2005	155288
+Ambos sexos	Total	41 Sevilla	2018	1946216
+Ambos sexos	Total	41 Sevilla	2017	1943275
+Ambos sexos	Total	41 Sevilla	2016	1941355
+Ambos sexos	Total	41 Sevilla	2015	1939763
+Ambos sexos	Total	41 Sevilla	2014	1937694
+Ambos sexos	Total	41 Sevilla	2013	1936538
+Ambos sexos	Total	41 Sevilla	2012	1934552
+Ambos sexos	Total	41 Sevilla	2011	1925234
+Ambos sexos	Total	41 Sevilla	2010	1910388
+Ambos sexos	Total	41 Sevilla	2009	1893602
+Ambos sexos	Total	41 Sevilla	2008	1872245
+Ambos sexos	Total	41 Sevilla	2007	1846364
+Ambos sexos	Total	41 Sevilla	2006	1819650
+Ambos sexos	Total	41 Sevilla	2005	1796244
+Ambos sexos	Total	42 Soria	2018	89415
+Ambos sexos	Total	42 Soria	2017	89707
+Ambos sexos	Total	42 Soria	2016	90267
+Ambos sexos	Total	42 Soria	2015	91165
+Ambos sexos	Total	42 Soria	2014	92139
+Ambos sexos	Total	42 Soria	2013	93017
+Ambos sexos	Total	42 Soria	2012	94019
+Ambos sexos	Total	42 Soria	2011	94674
+Ambos sexos	Total	42 Soria	2010	94886
+Ambos sexos	Total	42 Soria	2009	94705
+Ambos sexos	Total	42 Soria	2008	94714
+Ambos sexos	Total	42 Soria	2007	93855
+Ambos sexos	Total	42 Soria	2006	92931
+Ambos sexos	Total	42 Soria	2005	92441
+Ambos sexos	Total	43 Tarragona	2018	797389
+Ambos sexos	Total	43 Tarragona	2017	792372
+Ambos sexos	Total	43 Tarragona	2016	791651
+Ambos sexos	Total	43 Tarragona	2015	791753
+Ambos sexos	Total	43 Tarragona	2014	793585
+Ambos sexos	Total	43 Tarragona	2013	798524
+Ambos sexos	Total	43 Tarragona	2012	804923
+Ambos sexos	Total	43 Tarragona	2011	805365
+Ambos sexos	Total	43 Tarragona	2010	800618
+Ambos sexos	Total	43 Tarragona	2009	796357
+Ambos sexos	Total	43 Tarragona	2008	788132
+Ambos sexos	Total	43 Tarragona	2007	765170
+Ambos sexos	Total	43 Tarragona	2006	733363
+Ambos sexos	Total	43 Tarragona	2005	703579
+Ambos sexos	Total	44 Teruel	2018	133292
+Ambos sexos	Total	44 Teruel	2017	134112
+Ambos sexos	Total	44 Teruel	2016	135336
+Ambos sexos	Total	44 Teruel	2015	136698
+Ambos sexos	Total	44 Teruel	2014	138538
+Ambos sexos	Total	44 Teruel	2013	140303
+Ambos sexos	Total	44 Teruel	2012	141852
+Ambos sexos	Total	44 Teruel	2011	143538
+Ambos sexos	Total	44 Teruel	2010	144466
+Ambos sexos	Total	44 Teruel	2009	145630
+Ambos sexos	Total	44 Teruel	2008	146142
+Ambos sexos	Total	44 Teruel	2007	144754
+Ambos sexos	Total	44 Teruel	2006	142233
+Ambos sexos	Total	44 Teruel	2005	140326
+Ambos sexos	Total	45 Toledo	2018	688342
+Ambos sexos	Total	45 Toledo	2017	685865
+Ambos sexos	Total	45 Toledo	2016	688015
+Ambos sexos	Total	45 Toledo	2015	690326
+Ambos sexos	Total	45 Toledo	2014	693826
+Ambos sexos	Total	45 Toledo	2013	699709
+Ambos sexos	Total	45 Toledo	2012	704317
+Ambos sexos	Total	45 Toledo	2011	703809
+Ambos sexos	Total	45 Toledo	2010	696570
+Ambos sexos	Total	45 Toledo	2009	687760
+Ambos sexos	Total	45 Toledo	2008	675223
+Ambos sexos	Total	45 Toledo	2007	651376
+Ambos sexos	Total	45 Toledo	2006	622625
+Ambos sexos	Total	45 Toledo	2005	601673
+Ambos sexos	Total	46 Valencia/València	2018	2530661
+Ambos sexos	Total	46 Valencia/València	2017	2522482
+Ambos sexos	Total	46 Valencia/València	2016	2517927
+Ambos sexos	Total	46 Valencia/València	2015	2519077
+Ambos sexos	Total	46 Valencia/València	2014	2523408
+Ambos sexos	Total	46 Valencia/València	2013	2535151
+Ambos sexos	Total	46 Valencia/València	2012	2555904
+Ambos sexos	Total	46 Valencia/València	2011	2560010
+Ambos sexos	Total	46 Valencia/València	2010	2553676
+Ambos sexos	Total	46 Valencia/València	2009	2551310
+Ambos sexos	Total	46 Valencia/València	2008	2538914
+Ambos sexos	Total	46 Valencia/València	2007	2496258
+Ambos sexos	Total	46 Valencia/València	2006	2440925
+Ambos sexos	Total	46 Valencia/València	2005	2395970
+Ambos sexos	Total	47 Valladolid	2018	520367
+Ambos sexos	Total	47 Valladolid	2017	521141
+Ambos sexos	Total	47 Valladolid	2016	524134
+Ambos sexos	Total	47 Valladolid	2015	525831
+Ambos sexos	Total	47 Valladolid	2014	527800
+Ambos sexos	Total	47 Valladolid	2013	529885
+Ambos sexos	Total	47 Valladolid	2012	531821
+Ambos sexos	Total	47 Valladolid	2011	532280
+Ambos sexos	Total	47 Valladolid	2010	531184
+Ambos sexos	Total	47 Valladolid	2009	529614
+Ambos sexos	Total	47 Valladolid	2008	527430
+Ambos sexos	Total	47 Valladolid	2007	522298
+Ambos sexos	Total	47 Valladolid	2006	516000
+Ambos sexos	Total	47 Valladolid	2005	511669
+Ambos sexos	Total	49 Zamora	2018	174587
+Ambos sexos	Total	49 Zamora	2017	177001
+Ambos sexos	Total	49 Zamora	2016	179820
+Ambos sexos	Total	49 Zamora	2015	182617
+Ambos sexos	Total	49 Zamora	2014	185252
+Ambos sexos	Total	49 Zamora	2013	187622
+Ambos sexos	Total	49 Zamora	2012	190074
+Ambos sexos	Total	49 Zamora	2011	192019
+Ambos sexos	Total	49 Zamora	2010	193066
+Ambos sexos	Total	49 Zamora	2009	194160
+Ambos sexos	Total	49 Zamora	2008	195524
+Ambos sexos	Total	49 Zamora	2007	195993
+Ambos sexos	Total	49 Zamora	2006	195839
+Ambos sexos	Total	49 Zamora	2005	196102
+Ambos sexos	Total	50 Zaragoza	2018	963477
+Ambos sexos	Total	50 Zaragoza	2017	962431
+Ambos sexos	Total	50 Zaragoza	2016	961415
+Ambos sexos	Total	50 Zaragoza	2015	963867
+Ambos sexos	Total	50 Zaragoza	2014	967100
+Ambos sexos	Total	50 Zaragoza	2013	970328
+Ambos sexos	Total	50 Zaragoza	2012	973800
+Ambos sexos	Total	50 Zaragoza	2011	974838
+Ambos sexos	Total	50 Zaragoza	2010	972628
+Ambos sexos	Total	50 Zaragoza	2009	972160
+Ambos sexos	Total	50 Zaragoza	2008	964272
+Ambos sexos	Total	50 Zaragoza	2007	942666
+Ambos sexos	Total	50 Zaragoza	2006	922327
+Ambos sexos	Total	50 Zaragoza	2005	907595
+Ambos sexos	Total	51 Ceuta	2018	84949
+Ambos sexos	Total	51 Ceuta	2017	84995
+Ambos sexos	Total	51 Ceuta	2016	84724
+Ambos sexos	Total	51 Ceuta	2015	84485
+Ambos sexos	Total	51 Ceuta	2014	84619
+Ambos sexos	Total	51 Ceuta	2013	84500
+Ambos sexos	Total	51 Ceuta	2012	84194
+Ambos sexos	Total	51 Ceuta	2011	82910
+Ambos sexos	Total	51 Ceuta	2010	80622
+Ambos sexos	Total	51 Ceuta	2009	77811
+Ambos sexos	Total	51 Ceuta	2008	75776
+Ambos sexos	Total	51 Ceuta	2007	74563
+Ambos sexos	Total	51 Ceuta	2006	73292
+Ambos sexos	Total	51 Ceuta	2005	72192
+Ambos sexos	Total	52 Melilla	2018	84628
+Ambos sexos	Total	52 Melilla	2017	84809
+Ambos sexos	Total	52 Melilla	2016	84693
+Ambos sexos	Total	52 Melilla	2015	84676
+Ambos sexos	Total	52 Melilla	2014	84080
+Ambos sexos	Total	52 Melilla	2013	83645
+Ambos sexos	Total	52 Melilla	2012	82653
+Ambos sexos	Total	52 Melilla	2011	80171
+Ambos sexos	Total	52 Melilla	2010	77424
+Ambos sexos	Total	52 Melilla	2009	74484
+Ambos sexos	Total	52 Melilla	2008	72213
+Ambos sexos	Total	52 Melilla	2007	70080
+Ambos sexos	Total	52 Melilla	2006	67924
+Ambos sexos	Total	52 Melilla	2005	66351
